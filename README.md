@@ -2,7 +2,7 @@
 
 ## Objetivo del Trabajo
 
-Este proyecto tiene como finalidad aplicar técnicas de aprendizaje supervisado —específicamente regresión lineal simple y redes neuronales artificiales— para predecir el monto promedio de préstamos digitales otorgados a clientes peruanos.
+Este proyecto tiene como finalidad aplicar técnicas de aprendizaje supervisado específicamente regresión lineal simple y redes neuronales artificiales para predecir el monto promedio de préstamos digitales otorgados a clientes peruanos.
 
 El desarrollo se realizó utilizando Python, con el apoyo de bibliotecas especializadas como Pandas, NumPy, Scikit-learn y TensorFlow/Keras. Además, se empleó GitHub como sistema de control de versiones y plataforma de documentación del proyecto.
 
@@ -19,7 +19,6 @@ El dataset utilizado proviene de Kaggle y se titula **"Préstamos Digitales - Pe
 - `genero`: sexo del cliente (Masculino/Femenino).
 - `procedencia`: región o ciudad de residencia del cliente.
 
-> **Nota:** Se eliminaron registros con valores nulos o con `promSaldoPrest3Um` igual a cero para garantizar la calidad del entrenamiento.
 
 ---
 
